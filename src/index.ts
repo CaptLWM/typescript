@@ -103,5 +103,5 @@ createNewBlock("secondblock");
 createNewBlock("3rdblock");
 createNewBlock("4thblock");
 
-console.log(blockchain);
+console.log(blockchain); // 서로 연계된 블록
 export {};
